@@ -1,0 +1,101 @@
+21, Mad Max, Action, 2015, 9.6, 40
+12, Logan, Action, 2017, 7.2, 50
+1, La La Land, Drama, 2016, 8.2, 20
+13, Journey, Adventure, 2017, 6.1, 40
+16, John Wick, Action, 2017, 4.7, 30
+19, Theory Of Everything, Biography, 2017, 9.5, 70
+22, Enter the Dragon, Action, 1973, 8.6, 50
+23, Fast Five, Action, 2011, 8.6, 90
+24, Raiders of the Lost Ark, Action, 1981, 8.5, 60
+25, Die Hard, Action, 1988, 8.2, 70
+26, Ip Man, Action, 2008, 8.1, 40
+27, Terminator 2, Action, 1981, 8.5, 30
+28, First Blood, Action, 1982, 7.6, 40
+29, Taken, Action, 2007, 8.9, 40
+30, Forrest Gump, Drama, 1994, 9.1, 60
+31, Titanic, Drama, 1997, 9.2, 90
+32, Schindlers List, Drama, 1993, 9.0, 60
+33, 12 Angry Men, Drama, 1957, 9.2, 40
+34, Fight Club, Drama, 1999, 9.0, 10
+35, Spotlight, Drama, 2015, 9.3, 25
+36, Moana, Drama, 1975, 8.8, 55
+37, Goodfellas, Drama, 1990, 9.0, 80
+38, Saving Private Ryan, Drama, 1998, 8.1, 80
+39, The Green Mile, Drama, 1995, 7.1, 80
+40, The Lord of the Rings, Drama, 2002, 9.0, 80
+41, Harry Potter, Adventure, 2002, 8.2, 80
+42, 8 Mile, Adventure, 2003, 9.1, 90
+43, Jaws, Adventure, 1976, 8.0, 40
+44, Justice League, Adventure, 2017, 7.2, 60
+45, King Kong, Adventure, 2005, 8.8, 80
+46, Thor Ragnarok, Adventure, 2017, 6.0, 50
+47, Starwars, Adventure, 1997, 8.6, 40
+48, Fugitive, Adventure, 2001, 7.0, 10
+49, Casino Royale, Adventure, 2006, 9.3, 20
+50, The Revenant, Adventure, 2015, 8.0, 40
+51, Toy Story, Adventure, 1999, 9.4, 40
+52, Mummy, Adventure, 2000, 9.1, 70
+53, Moonrise Kingdom, Adventure, 2004, 8.7, 40
+54, Deadpool, Comedy, 2016, 9.9, 70
+55, The Intouchables, Comedy, 2010, 8.2, 70
+56, Back to the future, Comedy, 2008, 8.0, 55
+57, Up, Adventure, 2005, 8.9, 90
+58, The Wolf Of Wall Street, Comedy, 2012, 8.5, 70
+59, The Truman Show, Comedy, 2011, 8.6, 50
+60, Silver Linings Playbook, Comedy, 2004, 7.9, 40
+61, A Beautiful Mind, Comedy, 2005, 8.3, 70
+62, Gandhi, Biography, 1999, 6.2, 70
+63, Hacksaw Ridge, Biography, 2016, 7.9, 70
+64, American Gangster, Biography, 2007, 8.8, 70
+66, Shaun of the Dead, Comedy, 2011, 8.8, 70
+67, Old School, Comedy, 2008, 9.1, 70
+68, Trainwreck, Comedy, 2004, 9.0, 80
+69, Best in Show, Comedy, 2010, 8.9, 60
+75, About a Boy, Comedy, 2009, 8.8, 50
+85, The Heat, Comedy, 2014, 7.8, 20
+95, Superbad, Comedy, 2014, 6, 10
+105, The Grand Budapest Hotel, Comedy, 2013, 9.5, 100
+115, Sideways, Comedy, 2000, 8.7, 80
+125, Legend of Drunken Master, Action, 1994, 8.5, 10
+135, 13 Assassins, Action, 2011, 9.2, 70
+145, Braveheart, Action, 1995, 9.3, 20
+155, The Longest Day, Action, 1962, 7.5, 35
+165, Oldboy, Action, 2005, 9.6, 40
+175, Trollhunter, Action, 1998, 8.7, 35
+185, Redcliff, Action, 2008, 9.3, 40
+195, The Hunter, Action, 2011, 9.2, 50
+205, Hot Fuzz, Action, 1999, 8.5, 40
+215, IP Man, Action, 2008, 6.5, 35
+225, Inglorious Basterds, Action, 2009, 9.0, 90
+315, Capote, Biography, 2004, 7.3, 50
+325, Brians Song, Biography, 1971, 8.4, 60
+335, The Elephant Man, Biography, 1980, 8.8, 60
+345, The Social Network, Biography, 2010, 9.1, 70
+355, The Last Emperor, Biography, 1987, 9.2, 20
+365, American Splendor, Biography, 2003, 9.0, 50
+375, Coal Miner’s Daughter, Biography, 1980, 8.3, 50
+385, Frida, Biography, 2002, 7.1, 60
+395, The Aviator, Biography, 2004, 7.7, 20
+405, Walk the Line, Biography, 2005, 8.2, 10
+415, The Passion of Joan of Arc, Biography, 1928, 9.0, 80
+425, GoodFellas, Biography, 1990, 8.6, 90
+435, La Vie en Rose, Biography, 2007, 9.4, 30
+445, On the Waterfront, Drama, 2001, 8.1, 60
+455, Apocalypse Now, Drama, 2012, 7.2, 60
+465, Carlitos Way, Drama, 2002, 9.1, 50
+475, Life is Beautiful, Drama, 2002, 7.9, 40
+485, Milk, Drama, 1992, 8.2, 30
+495, Raging Bull, Drama, 1982, 6.6, 30
+505, The Hurt Locker, Drama, 1992, 7.7, 70
+515, Saving Private Ryan, Drama, 2011, 8.9, 80
+525, Citizen Kane, Drama, 2010, 9.0, 90
+535, Casablanca, Drama, 1991, 9.2, 40
+545, Die Hard, Action, 2008, 9.1, 30
+555, The Matrix, Action, 2005, 9.0, 40
+565, The Terminator, Action, 2006, 7.5, 50
+575, The Dark Knight, Action, 2012, 9.8, 60
+585, Predator, Action, 2002, 8.5, 40
+595, Lethal Weapon, Action, 2007, 6.7, 20
+655, Jurassic Park, Action, 1997, 8.8, 40
+755, Enter the Dragon, Action, 2004, 9.2, 50
+
