@@ -9,3 +9,6 @@
 * This application is a menu based application and it uses Data Structures effectively showcasing the extents to which we can use lists to make applications for relational databases.
 
 * There has been no plagiarism involved in this project whatsoever.
+## Team Members
+* Aditya Pandey
+* Abhishek Sinha 
